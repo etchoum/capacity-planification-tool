@@ -1,8 +1,14 @@
 
 # Capacity-planification-tool (KapaTool.update - Version 2.0) <br>   
-### Planification of capacities for production departments (Onejoon GmbH)
+Planification of capacities for production departments (Onejoon GmbH)
+#
 
-# Introduction
+#
+
+#
+## Introduction
+#
+
 
 The KapaTool originates from the need to plan capacities efficiently in production departments.
 It was important to efficiently manage and process SAP lists in order to make predictions about
@@ -10,11 +16,13 @@ possible deficits or external orders. The programming of an interactive output c
 as solution to link employee lists with SAP capacities in a relatively short period of time. The
 project began in October 2022. The first versions were produced in March 2023 and August 2023,
 and the current 2.0 version is now fully usable.
-
-# Usability
-
 #
 
+
+# I - Usability
+
+
+#
 Three main steps are relevant by using the KapaTool software:
 
     1. Filling out the Excel input file
@@ -25,7 +33,7 @@ Three main steps are relevant by using the KapaTool software:
 
 The following is a detailled explanation.
 
-#### How to fill the Excel Input file
+### How to fill the Excel Input file
 
 The responsible persons of the different production departments receive the "in.xlsm" Input file
 (Excel Workbook with macros) with personal passwords. The "in.xlsm" file is readable and fillable
@@ -46,8 +54,7 @@ be possible to save the file when closing it.
 If the password is entered successfully, the folder opens automatically with the following planning
 parameters to be filled in:
 
-    • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable
-colors [See Figure 3 right])
+    • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable colors [See Figure 3 right])
 
     • number of working days in the week (5 - 6)
     
