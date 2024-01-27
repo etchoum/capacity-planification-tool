@@ -1,3 +1,18 @@
+      First line with the HTML tag after.&lt;br&gt;<br>
+      And the next line.<br><br>
+    </code>
+  </td>
+  <td>
+    <code class="highlighter-rouge">
+    First line with a backslash after.\<br>
+    And the next line.<br><br>
+
+    First line with nothing after.<br>
+    And the next line.<br><br>
+    </code>
+  </td>
+</tr>
+
 # Capacity-planification-tool (KapaTool.update - Version 2.0) <br>  #### Planification of capacities for production departments (Onejoon GmbH)
 
 # Introduction
