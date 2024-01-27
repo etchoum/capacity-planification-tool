@@ -12,10 +12,16 @@ and the current 2.0 version is now fully usable.
 
 # Usability
 
+#
+
 Three main steps are relevant by using the KapaTool software:
+
     1. Filling out the Excel input file
+    
     2. Saving the Input file on a Server
+    
     3. Analysis of inventories in the output calendar.
+
 The following is a detailled explanation.
 
 #### How to fill the Excel Input file
@@ -38,14 +44,22 @@ be possible to save the file when closing it.
 
 If the password is entered successfully, the folder opens automatically with the following planning
 parameters to be filled in:
+
     • Projects, Orders or PSP-Elements in any order, comma-separated (with freely selectable
 colors [See Figure 3 right])
+
     • number of working days in the week (5 - 6)
+    
     • number of employees to plan (1 - 50)
+    
     • maximal number of working hours daily (6 - 10)
+    
     • maximal time capacity weekly (1 - 500)
+    
     • number of weeks to plan ( 1 - 30)
+    
     • status of the projects (whether open, already started or already finished),
+    
     • and whether the program should avoid empty Boxes.
 
 #
