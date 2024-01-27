@@ -1,4 +1,4 @@
-# Capacity-planification-tool (KapaTool.update - Version 2.0) <br> Planification of capacities for production departments (Onejoon GmbH)
+# Capacity-planification-tool (KapaTool.update - Version 2.0) <br>  #### Planification of capacities for production departments (Onejoon GmbH)
 
 # Introduction
 
